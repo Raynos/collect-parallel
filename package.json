@@ -1,6 +1,6 @@
 {
   "name": "collect-parallel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run N things in parallel and collect results",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
